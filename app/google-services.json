@@ -12,7 +12,12 @@
           "package_name": "id.ac.umn.myapplication"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "560267477648-iattgmnign3ruduq17mm1v4q1b2ghhtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyB_KX3jLRuuo_WSZnXu150d1GcQuMwBnrA"
@@ -20,7 +25,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560267477648-iattgmnign3ruduq17mm1v4q1b2ghhtn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
